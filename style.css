@@ -3,15 +3,17 @@
 par GMEA
 */
 
-background{
-color:rgb(14, 17, 16);
+
+body{
+    background-color:rgb(14,17,16);
 }
-h4 ol {
-    color: green;
+
+h4 ol {  
+    color:whitesmoke;
 }
 
 h1 {
-    color: green;
+    color: whitesmoke;
 }
 
 mark {
