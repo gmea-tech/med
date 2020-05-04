@@ -3,10 +3,9 @@
 par GMEA
 */
 
-h2+p {
-    color: grey;
+background{
+color:rgb(14, 17, 16);
 }
-
 h4 ol {
     color: green;
 }
